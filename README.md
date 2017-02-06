@@ -1,4 +1,4 @@
-# **Personal Finance application*
+# **Personal Finance application**
 A test Java GUI (swift) desktop application to manage the most easy transactions.
 
 ## **Dev environment**
