@@ -7,12 +7,13 @@ The application has been built and tested in the following environment:
 
 - Java™ SE Development Kit 8, Update 65 (JDK 8u65)
 - MySQL 5.7.11-log
+- Eclipse Mars and Neon.2
 
 ## **Main features**
 
-The core of the Personal Finance application is adding, deleting and updating transaction records regarding your revenues and expenses.
+The main (and only) feature of the Personal Finance application is adding, deleting and updating transaction records regarding your revenues and expenses.
 
-The application upon being launched simply presents a login page where the user must provide valid credentials in order to access the main (and only) form.
+The application upon being launched simply presents a login page where the user must provide valid credentials in order to access the main form.
 
 The main form presents a list box which details all the transactions stored in the database.
 
